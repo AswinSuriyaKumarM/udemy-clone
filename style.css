@@ -56,6 +56,10 @@ body{
 
 }
 
+.navbar__s4{
+    display: none;
+}
+
 .mylearning{
     position: relative;
     cursor: pointer;
@@ -210,10 +214,6 @@ body{
 @media screen and (max-width:800px) {
     body{
         font-size: 10px;
-    }
-
-    .navbar__s4{
-        display: none;
     }
     
 }
