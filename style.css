@@ -56,7 +56,6 @@ body{
 
 }
 
-/**MyLearningPopup**/
 .mylearning{
     position: relative;
     cursor: pointer;
@@ -107,7 +106,6 @@ body{
     position: absolute;
     top: 10%;
     left: 10%;
-
 }
 
 .recommended{
