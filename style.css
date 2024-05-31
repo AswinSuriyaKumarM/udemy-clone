@@ -157,9 +157,9 @@ body {
 }
 
 .course-card__image {
-    height: 75%;
+    height: 65%;
     width: 100%;
-}
+} 
 
 .topics {
     padding: 10px;
@@ -238,16 +238,12 @@ body {
     }
 
     .sale-image__offer {
-        height: 25%;
-        padding: 2%;
+        display: none;
     }
-    
-    .sale-image__offer h1 {
-        font-size: 8px;
-    }
-    
-    .sale-image__offer p {
-        font-size: 6px;
-    }
+
+    .course-card__image {
+        height: 50%;
+        width: 100%;
+    } 
 
 }
