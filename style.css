@@ -162,7 +162,7 @@ body {
 }
 
 .topics {
-    padding: 5px;
+    padding: 10px;
 }
 
 .topics__container {
@@ -180,7 +180,7 @@ body {
 }
 
 .popular {
-    padding: 5px;
+    padding: 10px;
 }
 
 .popular__container {
@@ -191,7 +191,7 @@ body {
 }
 
 .footer {
-    padding: 30px;
+    padding: 10px;
     background-color: black;
     color: white;
 }
@@ -221,7 +221,7 @@ body {
 
 @media screen and (max-width:600px) {
     .course-card {
-        flex-basis: 40%;
+        flex-basis: 35%;
     }
 
     .category {
