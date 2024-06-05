@@ -176,7 +176,7 @@ body {
     border: solid grey 2px;
     padding: 10px;
     flex-grow: 1;
-    flex-basis: 25%;
+    flex-basis: 23%;
 }
 
 .popular {
